@@ -1,11 +1,11 @@
 {
-  "buildNumber": 4,
-  "versionCode": 4,
-  "versionName": "Pre-Alpha Build #004",
+  "buildNumber": 5,
+  "versionCode": 5,
+  "versionName": "Pre-Alpha Build #005",
   "releaseStage": "PRE_ALPHA",
-  "releaseNotes": "Phase 4 Real App Drawer Implementation & Automated Publishing Pipeline",
-  "apkUrl": "https://raw.githubusercontent.com/ryo-builds/slyvos-launcher-updates/main/slyvos-prealpha-004.apk",
-  "apkSha256": "e0567e2824a6a393d29b91a8edb0482cf039f3a0eba0c7ee33a8b011452ce0ed",
-  "publishedAt": "2026-09-02T10:58:03Z",
+  "releaseNotes": "Phase 5 Native Widget Experience",
+  "apkUrl": "https://raw.githubusercontent.com/ryo-builds/slyvos-launcher-updates/main/slyvos-prealpha-005.apk",
+  "apkSha256": "9bdf3506a80bb91ef23125c81d87be92d085aa37b6e6194365b7bdc483308940",
+  "publishedAt": "2026-09-02T11:04:58Z",
   "minimumSupportedBuildNumber": 1
 }
