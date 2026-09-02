@@ -1,11 +1,11 @@
 {
-  "buildNumber": 8,
-  "versionCode": 8,
-  "versionName": "Pre-Alpha Build #008",
+  "buildNumber": 9,
+  "versionCode": 9,
+  "versionName": "Pre-Alpha Build #009",
   "releaseStage": "PRE_ALPHA",
-  "releaseNotes": "Blur Layer Isolation Architecture Fix",
-  "apkUrl": "https://raw.githubusercontent.com/ryo-builds/slyvos-launcher-updates/main/slyvos-prealpha-008.apk",
-  "apkSha256": "11fd8e95cfcc84ded405c8b54a9abe950b51224940a692d487058ebd5b014fcf",
-  "publishedAt": "2026-09-02T11:41:06Z",
+  "releaseNotes": "Slyvos Pre-Alpha Development Build Update",
+  "apkUrl": "https://raw.githubusercontent.com/ryo-builds/slyvos-launcher-updates/main/slyvos-prealpha-009.apk",
+  "apkSha256": "bd421dc8ea9fddd591afc5d7e4a7ccacc1917a38c25ebe1431c6a131c3e40e8a",
+  "publishedAt": "2026-09-02T12:04:12Z",
   "minimumSupportedBuildNumber": 1
 }
