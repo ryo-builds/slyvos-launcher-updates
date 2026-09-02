@@ -1,0 +1,11 @@
+﻿{
+    "buildNumber":  2,
+    "apkSha256":  "58bd7e16041159e5a148015fd5849a65616711ee11f52253605d3282b247472b",
+    "apkUrl":  "https://raw.githubusercontent.com/ryo-builds/slyvos-launcher-updates/main/slyvos-prealpha-002.apk",
+    "releaseNotes":  "Slyvos Pre-Alpha Development Build #002 — Dynamic Bar \u0026 Remote Updater Infrastructure",
+    "publishedAt":  "2026-09-02T10:35:58Z",
+    "minimumSupportedBuildNumber":  1,
+    "versionName":  "Pre-Alpha Build #002",
+    "versionCode":  2,
+    "releaseStage":  "PRE_ALPHA"
+}
