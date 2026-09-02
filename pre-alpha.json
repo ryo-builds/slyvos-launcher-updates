@@ -1,11 +1,11 @@
 {
-  "buildNumber": 6,
-  "versionCode": 6,
-  "versionName": "Pre-Alpha Build #006",
+  "buildNumber": 7,
+  "versionCode": 7,
+  "versionName": "Pre-Alpha Build #007",
   "releaseStage": "PRE_ALPHA",
-  "releaseNotes": "Phase 6 Customization and Personalization System",
-  "apkUrl": "https://raw.githubusercontent.com/ryo-builds/slyvos-launcher-updates/main/slyvos-prealpha-006.apk",
-  "apkSha256": "5ecfaeaba047d321dd67076859f00e9b8efb37593eb43956ff12eb0bc983f334",
-  "publishedAt": "2026-09-02T11:28:40Z",
+  "releaseNotes": "Phase 6 Audit and Refinements Pass",
+  "apkUrl": "https://raw.githubusercontent.com/ryo-builds/slyvos-launcher-updates/main/slyvos-prealpha-007.apk",
+  "apkSha256": "54b8b04a4ceb42884363c6e2217c1d936ef1d7a222e93945ef4577cc70e9b582",
+  "publishedAt": "2026-09-02T11:35:51Z",
   "minimumSupportedBuildNumber": 1
 }
